@@ -1,7 +1,7 @@
 # Udemy-Clone
 
 Udemy Clone Website
-This is a Udemy Clone website built using HTML and CSS. The website mimics the basic structure and design of Udemy, a popular online learning platform, providing an educational platform-style user interface.
+This is a Udemy Clone website built using HTML and CSS. The website mimics the basic structure and design of Udemy, a popular online learning platform, providing  an educational platform-style user interface.
 
 Features
 Responsive design (works well on desktops and mobile devices).
